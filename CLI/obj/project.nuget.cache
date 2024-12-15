@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3X4+QhnHtkLfsoxOYDh8nr4v/vEVG4vXFKV6j3Gqm262Gf0tT1vSIykZKF0XS6NYKIu3kILhtud3q2zE2zVfQ==",
+  "success": true,
+  "projectFilePath": "C:\\רותי לימודים\\CLI\\CLI\\fm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
